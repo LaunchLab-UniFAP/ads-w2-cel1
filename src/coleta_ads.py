@@ -20,12 +20,14 @@ def processar_motor_coleta():
             volume_acumulado += volume
             
             if volume_acumulado >= limite_maximo:
-                print("Status: Capacidade Maxima Atingida")
                 break
         except ValueError:
             print("Erro: Entrada Invalida")
-            
-    print(f"Volume Total: {volume_acumulado} m³")
+       
+    print(f"Volume Total: {volume_acumulado:.2f}".replace('.', ',') + " m³")
+
+    if volume_acumulado >= limite_maximo:
+        print("Status: Capacidade Maxima Atingida")    
 
 if __name__ == "__main__":
     processar_motor_coleta()

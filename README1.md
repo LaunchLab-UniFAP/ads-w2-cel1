@@ -1,8 +1,8 @@
 ## Identificação
 * Curso: ADS / Sistemas de Informação
 * Membro 1 (GitHub & Nome): @Belizariomorais - Belizario Clementino de Morais Melo
-* Membro 2 (GitHub & Nome): @[Usuario_do_Parceiro] - [Nome do Parceiro]
-* Embaixador Vinculado: @[ThiagoBoges] - [Thiago Borges]
+* Membro 2 (GitHub & Nome): @NathanaelSIlva - Nathanael Varela Silva
+* Embaixador Vinculado: @ThiagoBoges - [Thiago Borges]
 
 ## Seção de Análise Crítica (Formação Geral)
 RESPOSTA DA CÉLULA: 
